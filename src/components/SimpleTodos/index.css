@@ -1,0 +1,28 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.todosContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+  border: 5px double #ff0b37;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  color: #ff8542;
+  font-weight: bold;
+}
+.todoContainer {
+  display: flex;
+  flex-direction: column;
+}
